@@ -1,6 +1,5 @@
 payload:  
   # > BBC iPlayer
-  - PROCESS-NAME,bbc.iplayer.android
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN-KEYWORD,ww-live.akamaized.net
   - DOMAIN-KEYWORD,uk-live.akamaized.net
