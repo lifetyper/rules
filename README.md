@@ -1,2 +1,0 @@
-# rules
-Clash Unlock Rules
