@@ -1,6 +1,7 @@
 payload:
   # > Douyin
   - DOMAIN-SUFFIX,amemv.com
+  - DOMAIN-SUFFIX,douyinvod.com
   - DOMAIN-SUFFIX,ixigua.com
   - DOMAIN-SUFFIX,ixiguavideo.com
   - DOMAIN-SUFFIX,pstatp.com
